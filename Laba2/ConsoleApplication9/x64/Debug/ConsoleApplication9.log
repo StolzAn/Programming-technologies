@@ -1,0 +1,13 @@
+﻿  AssemblyInfo.cpp
+  check_r-value.cpp
+  check_size.cpp
+  main.cpp
+  input.cpp
+  form_array.cpp
+  menu.cpp
+  print.cpp
+C:\Users\Kiril\OneDrive\Рабочий стол\ConsoleApplication9\ConsoleApplication9\menu.cpp(26,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kiril\OneDrive\Рабочий стол\ConsoleApplication9\ConsoleApplication9\menu.cpp(30,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ConsoleApplication9.vcxproj -> C:\Users\Kiril\OneDrive\Рабочий стол\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
