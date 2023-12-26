@@ -1,0 +1,36 @@
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\Курсач-вроде.exe.config
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\Курсач-вроде.exe
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\Курсач-вроде.pdb
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\MySql.Data.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\System.Memory.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\System.Buffers.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\bin\Debug\MySql.Data.xml
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.AssemblyReference.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.FormBuy.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.FormSearch.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.FormList.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Курсач_вроде.Properties.Resources.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.GenerateResource.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.CopyComplete
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Курсач-вроде.exe
+C:\Users\Kiril\OneDrive\Рабочий стол\Курсовая Работа Балса\obj\Debug\Курсач-вроде.pdb
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\Курсач-вроде.exe.config
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\Курсач-вроде.exe
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\Курсач-вроде.pdb
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\System.Memory.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\bin\Debug\System.Buffers.dll
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.AssemblyReference.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.FormBuy.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.FormSearch.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.FormList.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Курсач_вроде.Properties.Resources.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.GenerateResource.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Aeroflot.csproj.CopyComplete
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Курсач-вроде.exe
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Курсовая Работа Балса\obj\Debug\Курсач-вроде.pdb
