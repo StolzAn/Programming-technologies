@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Common-Files">
+      <UniqueIdentifier>{1f5ecdcb-2c88-416e-8c22-2cf555c7a3e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\TwoDimArr%28Task2%29">
+      <UniqueIdentifier>{e79adffe-a765-405e-bd72-003999a3a6c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\OneDimArr%28Task1%29">
+      <UniqueIdentifier>{d1493533-79a8-46ab-8770-e9e151c74149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\CharArr%28Task3%29">
+      <UniqueIdentifier>{9dbfa63d-25dc-4756-82b4-fc0870ed0851}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Task1.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Task2.cpp">
+      <Filter>Исходные файлы\TwoDimArr%28Task2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Task3.cpp">
+      <Filter>Исходные файлы\CharArr%28Task3%29</Filter>
+    </ClCompile>
+    <ClCompile Include="check_size.cpp">
+      <Filter>Исходные файлы\Common-Files</Filter>
+    </ClCompile>
+    <ClCompile Include="display.cpp">
+      <Filter>Исходные файлы\Common-Files</Filter>
+    </ClCompile>
+    <ClCompile Include="global_menu.cpp">
+      <Filter>Исходные файлы\Common-Files</Filter>
+    </ClCompile>
+    <ClCompile Include="min_element.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Summa_after_negative_element.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="compress.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="task_choice.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="first_negative_element.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="isDigit.cpp">
+      <Filter>Исходные файлы\CharArr%28Task3%29</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle_arr.cpp">
+      <Filter>Исходные файлы\TwoDimArr%28Task2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="average.cpp">
+      <Filter>Исходные файлы\TwoDimArr%28Task2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="task_choice2.cpp">
+      <Filter>Исходные файлы\TwoDimArr%28Task2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="task_three.cpp">
+      <Filter>Исходные файлы\CharArr%28Task3%29</Filter>
+    </ClCompile>
+    <ClCompile Include="index_min.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+    <ClCompile Include="template_func_task2.cpp">
+      <Filter>Исходные файлы\TwoDimArr%28Task2%29</Filter>
+    </ClCompile>
+    <ClCompile Include="template_funk_task1.cpp">
+      <Filter>Исходные файлы\OneDimArr%28Task1%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Libraries.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
