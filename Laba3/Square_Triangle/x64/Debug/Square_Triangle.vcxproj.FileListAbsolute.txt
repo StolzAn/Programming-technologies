@@ -1,0 +1,9 @@
+C:\Users\defaultuser\source\repos\Square_Triangle\Square_Triangle\x64\Debug\Square_Triangle.vcxproj.AssemblyReference.cache
+C:\Users\defaultuser\source\repos\Square_Triangle\Square_Triangle\x64\Debug\SquareTriangle.MyForm.resources
+C:\Users\defaultuser\source\repos\Square_Triangle\Square_Triangle\x64\Debug\Square_Triangle.vcxproj.GenerateResource.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Square_Triangle\Square_Triangle\x64\Debug\Square_Triangle.vcxproj.AssemblyReference.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Square_Triangle\Square_Triangle\x64\Debug\SquareTriangle.MyForm.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Square_Triangle\Square_Triangle\x64\Debug\Square_Triangle.vcxproj.GenerateResource.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Лаб.Раб. Иванов Миронов ИС-22\Laba3\Square_Triangle\x64\Debug\Square_Triangle.vcxproj.AssemblyReference.cache
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Лаб.Раб. Иванов Миронов ИС-22\Laba3\Square_Triangle\x64\Debug\SquareTriangle.MyForm.resources
+C:\Users\Kiril\OneDrive\Рабочий стол\Балса 1 сем\Лаб.Раб. Иванов Миронов ИС-22\Laba3\Square_Triangle\x64\Debug\Square_Triangle.vcxproj.GenerateResource.cache
